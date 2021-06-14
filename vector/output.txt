@@ -1,0 +1,700 @@
+Tua sach: A Brief History of Time
+Ma so: 1
+Ten tac gia: Stephen Hawking
+The loai: Popular science
+Nam xuat ban: 1988
+Xep hang: 5/5
+
+Tua sach: A Child's First Library Of Learning
+Ma so: 2
+Ten tac gia: Various authors
+The loai: Children's literature
+Nam xuat ban: 1980
+Xep hang: 4/5
+
+Tua sach: A Message to Garcia
+Ma so: 3
+Ten tac gia: Elbert Hubbard
+The loai: Children's literature
+Nam xuat ban: 1899
+Xep hang: 2/5
+
+Tua sach: A Series of Unfortunate Events
+Ma so: 4
+Ten tac gia: Lemony Snicket aka Daniel Handler
+The loai: Children's literature
+Nam xuat ban: 1996
+Xep hang: 2/5
+
+Tua sach: A Song of Ice and Fire
+Ma so: 5
+Ten tac gia: George R. R. Martin
+The loai: Children's literature
+Nam xuat ban: 1996
+Xep hang: 5/5
+
+Tua sach: A Wrinkle in Time
+Ma so: 6
+Ten tac gia: Madeleine L'Engle
+The loai: Children's literature
+Nam xuat ban: 1962
+Xep hang: 2/5
+
+Tua sach: Adventures of Huckleberry Finn
+Ma so: 7
+Ten tac gia: Mark Twain
+The loai: Children's literature
+Nam xuat ban: 1885
+Xep hang: 2/5
+
+Tua sach: Alex Cross
+Ma so: 8
+Ten tac gia: James Patterson
+The loai: Children's literature
+Nam xuat ban: 1993
+Xep hang: 3/5
+
+Tua sach: All Quiet on the Western Front (Im Westen nichts Neues)
+Ma so: 9
+Ten tac gia: Erich Maria Remarque
+The loai: Children's literature
+Nam xuat ban: 1929
+Xep hang: 5/5
+
+Tua sach: American Girl
+Ma so: 10
+Ten tac gia: Various authors
+The loai: Children's literature
+Nam xuat ban: 1986
+Xep hang: 2/5
+
+Tua sach: And Then There Were None
+Ma so: 11
+Ten tac gia: Agatha Christie
+The loai: Mystery
+Nam xuat ban: 1939
+Xep hang: 3/5
+
+Tua sach: Andromeda Nebula
+Ma so: 12
+Ten tac gia: Ivan Yefremov
+The loai: Mystery
+Nam xuat ban: 1957
+Xep hang: 5/5
+
+Tua sach: Angela's Ashes
+Ma so: 13
+Ten tac gia: Frank McCourt
+The loai: Mystery
+Nam xuat ban: 1996
+Xep hang: 3/5
+
+Tua sach: Angels & Demons
+Ma so: 14
+Ten tac gia: Dan Brown
+The loai: Mystery
+Nam xuat ban: 2000
+Xep hang: 3/5
+
+Tua sach: Animal Farm
+Ma so: 15
+Ten tac gia: George Orwell
+The loai: Mystery
+Nam xuat ban: 1945
+Xep hang: 3/5
+
+Tua sach: Anne of Green Gables
+Ma so: 16
+Ten tac gia: Lucy Maud Montgomery
+The loai: General
+Nam xuat ban: 1908
+Xep hang: 5/5
+
+Tua sach: Anpanman 
+Ma so: 17
+Ten tac gia: Takashi Yanase
+The loai: General
+Nam xuat ban: 1973
+Xep hang: 3/5
+
+Tua sach: Artemis Fowl
+Ma so: 18
+Ten tac gia: Eoin Colfer
+The loai: General
+Nam xuat ban: 2001
+Xep hang: 4/5
+
+Tua sach: Autobiography of a Yogi
+Ma so: 19
+Ten tac gia: Paramahansa Yogananda
+The loai: General
+Nam xuat ban: 1946
+Xep hang: 2/5
+
+Tua sach: Becoming
+Ma so: 20
+Ten tac gia: Michelle Obama
+The loai: General
+Nam xuat ban: 2018
+Xep hang: 2/5
+
+Tua sach: Ben-Hur: A Tale of the Christ
+Ma so: 21
+Ten tac gia: Lew Wallace
+The loai: Historical
+Nam xuat ban: 1880
+Xep hang: 2/5
+
+Tua sach: Berenstain Bears
+Ma so: 22
+Ten tac gia: Stan and Jan Berenstain
+The loai: Children's literature
+Nam xuat ban: 1962
+Xep hang: 5/5
+
+Tua sach: Black Beauty
+Ma so: 23
+Ten tac gia: Anna Sewell
+The loai: Children's literature
+Nam xuat ban: 1877
+Xep hang: 4/5
+
+Tua sach: Bokura series
+Ma so: 24
+Ten tac gia: Osamu Soda
+The loai: Children's Literature
+Nam xuat ban: 1985
+Xep hang: 3/5
+
+Tua sach: Brain Quest
+Ma so: 25
+Ten tac gia: Various authors
+The loai: Children's literature
+Nam xuat ban: 1992
+Xep hang: 3/5
+
+Tua sach: Bridget Jones
+Ma so: 26
+Ten tac gia: Helen Fielding
+The loai: Children's literature
+Nam xuat ban: 1996
+Xep hang: 5/5
+
+Tua sach: Bridget Jones's Diary
+Ma so: 27
+Ten tac gia: Helen Fielding
+The loai: Children's literature
+Nam xuat ban: 2001
+Xep hang: 4/5
+
+Tua sach: C Program Design
+Ma so: 28
+Ten tac gia: Tan Haoqiang
+The loai: Mystery
+Nam xuat ban: 1991
+Xep hang: 4/5
+
+Tua sach: Calico Cat Holmes series
+Ma so: 29
+Ten tac gia: Jirō Akagawa
+The loai: Detective, mystery
+Nam xuat ban: 1978
+Xep hang: 2/5
+
+Tua sach: Captain Underpants
+Ma so: 30
+Ten tac gia: Dav Pilkey
+The loai: Children's literature
+Nam xuat ban: 1997
+Xep hang: 5/5
+
+Tua sach: Catch-22
+Ma so: 31
+Ten tac gia: Joseph Heller
+The loai: Children's literature
+Nam xuat ban: 1961
+Xep hang: 5/5
+
+Tua sach: Catching Fire
+Ma so: 32
+Ten tac gia: Suzanne Collins
+The loai: Children's literature
+Nam xuat ban: 2009
+Xep hang: 3/5
+
+Tua sach: Charlie and the Chocolate Factory
+Ma so: 33
+Ten tac gia: Roald Dahl
+The loai: Children's literature
+Nam xuat ban: 1964
+Xep hang: 2/5
+
+Tua sach: Charlotte's Web
+Ma so: 34
+Ten tac gia: Garth Williams
+The loai: Children's fiction
+Nam xuat ban: 1952
+Xep hang: 3/5
+
+Tua sach: Chart Shiki
+Ma so: 35
+Ten tac gia: Various authors
+The loai: Children's Literature
+Nam xuat ban: 1927
+Xep hang: 5/5
+
+Tua sach: Chicken Soup for the Soul
+Ma so: 36
+Ten tac gia: Jack Canfield, Mark Victor Hansen
+The loai: Children's fiction
+Nam xuat ban: 1997
+Xep hang: 5/5
+
+Tua sach: Choose Your Own Adventure
+Ma so: 37
+Ten tac gia: Various authors
+The loai: Children's literature
+Nam xuat ban: 1979
+Xep hang: 5/5
+
+Tua sach: Clifford the Big Red Dog
+Ma so: 38
+Ten tac gia: Norman Bridwell
+The loai: Children's literature
+Nam xuat ban: 1963
+Xep hang: 2/5
+
+Tua sach: Confucius from the Heart 
+Ma so: 39
+Ten tac gia: Yu Dan
+The loai: Mystery
+Nam xuat ban: 2006
+Xep hang: 5/5
+
+Tua sach: Cosmos
+Ma so: 40
+Ten tac gia: Carl Sagan
+The loai: Mystery
+Nam xuat ban: 1980
+Xep hang: 5/5
+
+Tua sach: Curious George
+Ma so: 41
+Ten tac gia: Hans Augusto Rey and Margret Rey
+The loai: Children's Literature
+Nam xuat ban: 1941
+Xep hang: 3/5
+
+Tua sach: Découvertes Gallimard
+Ma so: 42
+Ten tac gia: Various authors
+The loai: Mystery
+Nam xuat ban: 1986
+Xep hang: 2/5
+
+Tua sach: Der Regenbogenfisch (Rainbow Fish)
+Ma so: 43
+Ten tac gia: Marcus Pfister
+The loai: Mystery
+Nam xuat ban: 1992
+Xep hang: 3/5
+
+Tua sach: Diana: Her True Story
+Ma so: 44
+Ten tac gia: Andrew Morton
+The loai: Mystery
+Nam xuat ban: 1992
+Xep hang: 4/5
+
+Tua sach: Diary of a Wimpy Kid
+Ma so: 45
+Ten tac gia: Jeff Kinney
+The loai: Children's literature
+Nam xuat ban: 2007
+Xep hang: 4/5
+
+Tua sach: Dirk Pitt
+Ma so: 46
+Ten tac gia: Clive Cussler
+The loai: Mystery
+Nam xuat ban: 1973
+Xep hang: 2/5
+
+Tua sach: Discworld
+Ma so: 47
+Ten tac gia: Terry Pratchett
+The loai: Mystery
+Nam xuat ban: 1983
+Xep hang: 2/5
+
+Tua sach: Divergent
+Ma so: 48
+Ten tac gia: Veronica Roth
+The loai: Mystery
+Nam xuat ban: 2011
+Xep hang: 5/5
+
+Tua sach: Doc Savage Lester Dent
+Ma so: 49
+Ten tac gia: Various authors
+The loai: Mystery
+Nam xuat ban: 1933
+Xep hang: 3/5
+
+Tua sach: Dork Diaries
+Ma so: 50
+Ten tac gia: Rachel Renée Russell
+The loai: Mystery
+Nam xuat ban: 2009
+Xep hang: 2/5
+
+Tua sach: Dragonlance
+Ma so: 51
+Ten tac gia: Various authors
+The loai: Mystery
+Nam xuat ban: 1984
+Xep hang: 4/5
+
+Tua sach: Dragonriders of Pern
+Ma so: 52
+Ten tac gia: Anne McCaffrey
+The loai: Mystery
+Nam xuat ban: 1967
+Xep hang: 2/5
+
+Tua sach: Dream of the Red Chamber
+Ma so: 53
+Ten tac gia: Cao Xueqin
+The loai: Family saga
+Nam xuat ban: 1890
+Xep hang: 5/5
+
+Tua sach: Dune
+Ma so: 54
+Ten tac gia: Frank Herbert
+The loai: Family saga
+Nam xuat ban: 1965
+Xep hang: 3/5
+
+Tua sach: Earth's Children
+Ma so: 55
+Ten tac gia: Jean M. Auel
+The loai: Family saga
+Nam xuat ban: 1980
+Xep hang: 2/5
+
+Tua sach: Eigo Kihon Tangoshu
+Ma so: 56
+Ten tac gia: Yoshio Akao Jidaigeki
+The loai: Compilation of basic English vocabulary
+Nam xuat ban: 1942
+Xep hang: 3/5
+
+Tua sach: Erast Fandorin series
+Ma so: 57
+Ten tac gia: Boris Akunin
+The loai: Family saga
+Nam xuat ban: 1998
+Xep hang: 5/5
+
+Tua sach: Eye of the Needle
+Ma so: 58
+Ten tac gia: Ken Follett
+The loai: Family saga
+Nam xuat ban: 1978
+Xep hang: 2/5
+
+Tua sach: Fahrenheit 451
+Ma so: 59
+Ten tac gia: Ray Bradbury
+The loai: Family saga
+Nam xuat ban: 1953
+Xep hang: 3/5
+
+Tua sach: Fear of Flying
+Ma so: 60
+Ten tac gia: Erica Jong
+The loai: Family saga
+Nam xuat ban: 1973
+Xep hang: 5/5
+
+Tua sach: Fear Street
+Ma so: 61
+Ten tac gia: R. L. Stine
+The loai: Family saga
+Nam xuat ban: 1989
+Xep hang: 4/5
+
+Tua sach: Fifty Shades
+Ma so: 62
+Ten tac gia: E. L. James
+The loai: Family saga
+Nam xuat ban: 2011
+Xep hang: 4/5
+
+Tua sach: Fifty Shades Darker
+Ma so: 63
+Ten tac gia: E. L. James
+The loai: Family saga
+Nam xuat ban: 2012
+Xep hang: 5/5
+
+Tua sach: Fifty Shades of Grey
+Ma so: 64
+Ten tac gia: E. L. James
+The loai: Family saga
+Nam xuat ban: 2011
+Xep hang: 3/5
+
+Tua sach: Flowers in the Attic
+Ma so: 65
+Ten tac gia: V. C. Andrews
+The loai: Family saga
+Nam xuat ban: 1979
+Xep hang: 4/5
+
+Tua sach: Follow Your Heart (Va' dove ti porta il cuore)
+Ma so: 66
+Ten tac gia: Susanna Tamaro
+The loai: Family saga
+Nam xuat ban: 1994
+Xep hang: 3/5
+
+Tua sach: Frank Merriwell
+Ma so: 67
+Ten tac gia: Gilbert Patten
+The loai: Family saga
+Nam xuat ban: 1896
+Xep hang: 2/5
+
+Tua sach: Genma Taisen
+Ma so: 68
+Ten tac gia: Kazumasa Hirai
+The loai: Science fiction
+Nam xuat ban: 1979
+Xep hang: 5/5
+
+Tua sach: Geronimo Stilton
+Ma so: 69
+Ten tac gia: Elisabetta Dami and ghostwriters
+The loai: Children's literature
+Nam xuat ban: 2000
+Xep hang: 2/5
+
+Tua sach: God's Little Acre
+Ma so: 70
+Ten tac gia: Erskine Caldwell
+The loai: Children's literature
+Nam xuat ban: 1933
+Xep hang: 5/5
+
+Tua sach: Gone Girl
+Ma so: 71
+Ten tac gia: Gillian Flynn
+The loai: Children's literature
+Nam xuat ban: 2012
+Xep hang: 3/5
+
+Tua sach: Gone with the Wind
+Ma so: 72
+Ten tac gia: Margaret Mitchell
+The loai: Children's literature
+Nam xuat ban: 1936
+Xep hang: 3/5
+
+Tua sach: Goodnight Moon
+Ma so: 73
+Ten tac gia: Margaret Wise Brown
+The loai: Children's literature
+Nam xuat ban: 1947
+Xep hang: 4/5
+
+Tua sach: Goosebumps
+Ma so: 74
+Ten tac gia: R. L. Stine
+The loai: Children's literature
+Nam xuat ban: 1992
+Xep hang: 3/5
+
+Tua sach: Guess How Much I Love You
+Ma so: 75
+Ten tac gia: Sam McBratney
+The loai: Children's literature
+Nam xuat ban: 1994
+Xep hang: 5/5
+
+Tua sach: Guin Saga
+Ma so: 76
+Ten tac gia: Kaoru Kurimoto
+The loai: Self-improvement
+Nam xuat ban: 1979
+Xep hang: 3/5
+
+Tua sach: Hammond's Pocket
+Ma so: 77
+Ten tac gia: Atlas	
+The loai: Children's literature
+Nam xuat ban: 1965
+Xep hang: 4/5
+
+Tua sach: Harry Bosch
+Ma so: 78
+Ten tac gia: Michael Connelly
+The loai: Children's literature
+Nam xuat ban: 1992
+Xep hang: 4/5
+
+Tua sach: Harry Hole
+Ma so: 79
+Ten tac gia: Jo Nesbø
+The loai: Children's literature
+Nam xuat ban: 1997
+Xep hang: 2/5
+
+Tua sach: Harry Potter
+Ma so: 80
+Ten tac gia: J. K. Rowling
+The loai: Children's literature
+Nam xuat ban: 1997
+Xep hang: 5/5
+
+Tua sach: Harry Potter and the Chamber of Secrets
+Ma so: 81
+Ten tac gia: J. K. Rowling
+The loai: Fantasy
+Nam xuat ban: 1998
+Xep hang: 2/5
+
+Tua sach: Harry Potter and the Deathly Hallows
+Ma so: 82
+Ten tac gia: J. K. Rowling
+The loai: Fantasy
+Nam xuat ban: 2007
+Xep hang: 3/5
+
+Tua sach: Harry Potter and the Goblet of Fire
+Ma so: 83
+Ten tac gia: J. K. Rowling
+The loai: Fantasy
+Nam xuat ban: 2000
+Xep hang: 3/5
+
+Tua sach: Harry Potter and the Half-Blood Prince
+Ma so: 84
+Ten tac gia: J. K. Rowling
+The loai: Fantasy
+Nam xuat ban: 2005
+Xep hang: 2/5
+
+Tua sach: Harry Potter and the Order of the Phoenix
+Ma so: 85
+Ten tac gia: J. K. Rowling
+The loai: Fantasy
+Nam xuat ban: 2003
+Xep hang: 5/5
+
+Tua sach: Harry Potter and the Philosopher's Stone
+Ma so: 86
+Ten tac gia: J. K. Rowling
+The loai: Fantasy
+Nam xuat ban: 1997
+Xep hang: 4/5
+
+Tua sach: Harry Potter and the Prisoner of Azkaban
+Ma so: 87
+Ten tac gia: J. K. Rowling
+The loai: Fantasy
+Nam xuat ban: 1999
+Xep hang: 2/5
+
+Tua sach: Haruhi Suzumiya Series
+Ma so: 88
+Ten tac gia: Nagaru Tanigawa
+The loai: Jidaigeki
+Nam xuat ban: 2003
+Xep hang: 4/5
+
+Tua sach: Heidi
+Ma so: 89
+Ten tac gia: Johanna Spyri
+The loai: Children's fiction
+Nam xuat ban: 1880
+Xep hang: 4/5
+
+Tua sach: His Dark Materials
+Ma so: 90
+Ten tac gia: Philip Pullman
+The loai: Children's fiction
+Nam xuat ban: 1995
+Xep hang: 5/5
+
+Tua sach: Horrible Histories
+Ma so: 91
+Ten tac gia: Terry Deary
+The loai: Children's fiction
+Nam xuat ban: 1993
+Xep hang: 2/5
+
+Tua sach: How the Steel Was Tempered
+Ma so: 92
+Ten tac gia: Nikolai Ostrovsky
+The loai: Children's fiction
+Nam xuat ban: 1932
+Xep hang: 2/5
+
+Tua sach: How to Win Friends and Influence People
+Ma so: 93
+Ten tac gia: Dale Carnegie
+The loai: Children's fiction
+Nam xuat ban: 1936
+Xep hang: 4/5
+
+Tua sach: I Survived
+Ma so: 94
+Ten tac gia: Lauren Tarshis
+The loai: Children's fiction
+Nam xuat ban: 2010
+Xep hang: 2/5
+
+Tua sach: Interpreter of Maladies
+Ma so: 95
+Ten tac gia: Jhumpa Lahiri
+The loai: Children's fiction
+Nam xuat ban: 2000
+Xep hang: 2/5
+
+Tua sach: Jack Reacher
+Ma so: 96
+Ten tac gia: Lee Child
+The loai: Children's fiction
+Nam xuat ban: 1997
+Xep hang: 2/5
+
+Tua sach: James and the Giant Peach
+Ma so: 97
+Ten tac gia: Roald Dahl
+The loai: Children's literature
+Nam xuat ban: 1961
+Xep hang: 4/5
+
+Tua sach: Ian Fleming
+Ma so: 98
+Ten tac gia: James Bond
+The loai: Children's literature
+Nam xuat ban: 1953
+Xep hang: 2/5
+
+Tua sach: Jaws
+Ma so: 99
+Ten tac gia: Peter Benchley
+The loai: Children's literature
+Nam xuat ban: 1974
+Xep hang: 3/5
+
+Tua sach: Jonathan Livingston Seagull
+Ma so: 100
+Ten tac gia: Richard Bach
+The loai: Children's literature
+Nam xuat ban: 1970
+Xep hang: 4/5
+

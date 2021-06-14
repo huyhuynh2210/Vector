@@ -1,9 +1,9 @@
 #include <vector>
 #include <iostream>
-using namespace std;
 #include <string>
 #include <string.h>
 #include <fstream>
+using namespace std;
 
 struct BOOK {
 	string  MaSo;
@@ -82,7 +82,6 @@ void TimTheoTenTacGia(vector<BOOK> B, char name[50])
 			Xuat1(B, i);
 		}
 	}
-
 }
 
 void TimTheoTuaSach(vector<BOOK> B, char name[50])
@@ -104,7 +103,6 @@ void TimTheoTuaSach(vector<BOOK> B, char name[50])
 			Xuat1(B, i);
 		}
 	}
-
 }
 
 void TimTheoNamXuatBan(vector<BOOK> B, int y)
@@ -163,7 +161,6 @@ void DOCFILE(vector<BOOK>& A) {
 		filein.ignore();
 		filein.ignore();
 		A.push_back(b);
-
 	}
 	filein.close();
 	cout << "Da doc xong file\n";
@@ -254,7 +251,6 @@ void MENU(vector<BOOK>& B) {
 			cout << "Yeu cau khong ton tai! Vui long nhap lai!\n";
 			system("pause");
 			break;
-
 		}
 	}
 }

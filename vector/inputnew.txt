@@ -1,0 +1,699 @@
+1
+A Brief History of Time
+Stephen Hawking
+Popular science
+1988
+5
+
+2
+A Child's First Library Of Learning
+Various authors
+Children's literature
+1980
+4
+
+3
+A Message to Garcia
+Elbert Hubbard
+Children's literature
+1899
+2
+
+4
+A Series of Unfortunate Events
+Lemony Snicket aka Daniel Handler
+Children's literature
+1996
+2
+
+5
+A Song of Ice and Fire
+George R. R. Martin
+Children's literature
+1996
+5
+
+6
+A Wrinkle in Time
+Madeleine L'Engle
+Children's literature
+1962
+2
+
+7
+Adventures of Huckleberry Finn
+Mark Twain
+Children's literature
+1885
+2
+
+8
+Alex Cross
+James Patterson
+Children's literature
+1993
+3
+
+9
+All Quiet on the Western Front (Im Westen nichts Neues)
+Erich Maria Remarque
+Children's literature
+1929
+5
+
+10
+American Girl
+Various authors
+Children's literature
+1986
+2
+
+11
+And Then There Were None
+Agatha Christie
+Mystery
+1939
+3
+
+12
+Andromeda Nebula
+Ivan Yefremov
+Mystery
+1957
+5
+
+13
+Angela's Ashes
+Frank McCourt
+Mystery
+1996
+3
+
+14
+Angels & Demons
+Dan Brown
+Mystery
+2000
+3
+
+15
+Animal Farm
+George Orwell
+Mystery
+1945
+3
+
+16
+Anne of Green Gables
+Lucy Maud Montgomery
+General
+1908
+5
+
+17
+Anpanman 
+Takashi Yanase
+General
+1973
+3
+
+18
+Artemis Fowl
+Eoin Colfer
+General
+2001
+4
+
+19
+Autobiography of a Yogi
+Paramahansa Yogananda
+General
+1946
+2
+
+20
+Becoming
+Michelle Obama
+General
+2018
+2
+
+21
+Ben-Hur: A Tale of the Christ
+Lew Wallace
+Historical
+1880
+2
+
+22
+Berenstain Bears
+Stan and Jan Berenstain
+Children's literature
+1962
+5
+
+23
+Black Beauty
+Anna Sewell
+Children's literature
+1877
+4
+
+24
+Bokura series
+Osamu Soda
+Children's Literature
+1985
+3
+
+25
+Brain Quest
+Various authors
+Children's literature
+1992
+3
+
+26
+Bridget Jones
+Helen Fielding
+Children's literature
+1996
+5
+
+27
+Bridget Jones's Diary
+Helen Fielding
+Children's literature
+2001
+4
+
+28
+C Program Design
+Tan Haoqiang
+Mystery
+1991
+4
+
+29
+Calico Cat Holmes series
+Jirō Akagawa
+Detective, mystery
+1978
+2
+
+30
+Captain Underpants
+Dav Pilkey
+Children's literature
+1997
+5
+
+31
+Catch-22
+Joseph Heller
+Children's literature
+1961
+5
+
+32
+Catching Fire
+Suzanne Collins
+Children's literature
+2009
+3
+
+33
+Charlie and the Chocolate Factory
+Roald Dahl
+Children's literature
+1964
+2
+
+34
+Charlotte's Web
+Garth Williams
+Children's fiction
+1952
+3
+
+35
+Chart Shiki
+Various authors
+Children's Literature
+1927
+5
+
+36
+Chicken Soup for the Soul
+Jack Canfield, Mark Victor Hansen
+Children's fiction
+1997
+5
+
+37
+Choose Your Own Adventure
+Various authors
+Children's literature
+1979
+5
+
+38
+Clifford the Big Red Dog
+Norman Bridwell
+Children's literature
+1963
+2
+
+39
+Confucius from the Heart 
+Yu Dan
+Mystery
+2006
+5
+
+40
+Cosmos
+Carl Sagan
+Mystery
+1980
+5
+
+41
+Curious George
+Hans Augusto Rey and Margret Rey
+Children's Literature
+1941
+3
+
+42
+Découvertes Gallimard
+Various authors
+Mystery
+1986
+2
+
+43
+Der Regenbogenfisch (Rainbow Fish)
+Marcus Pfister
+Mystery
+1992
+3
+
+44
+Diana: Her True Story
+Andrew Morton
+Mystery
+1992
+4
+
+45
+Diary of a Wimpy Kid
+Jeff Kinney
+Children's literature
+2007
+4
+
+46
+Dirk Pitt
+Clive Cussler
+Mystery
+1973
+2
+
+47
+Discworld
+Terry Pratchett
+Mystery
+1983
+2
+
+48
+Divergent
+Veronica Roth
+Mystery
+2011
+5
+
+49
+Doc Savage Lester Dent
+Various authors
+Mystery
+1933
+3
+
+50
+Dork Diaries
+Rachel Renée Russell
+Mystery
+2009
+2
+
+51
+Dragonlance
+Various authors
+Mystery
+1984
+4
+
+52
+Dragonriders of Pern
+Anne McCaffrey
+Mystery
+1967
+2
+
+53
+Dream of the Red Chamber
+Cao Xueqin
+Family saga
+1890
+5
+
+54
+Dune
+Frank Herbert
+Family saga
+1965
+3
+
+55
+Earth's Children
+Jean M. Auel
+Family saga
+1980
+2
+
+56
+Eigo Kihon Tangoshu
+Yoshio Akao Jidaigeki
+Compilation of basic English vocabulary
+1942
+3
+
+57
+Erast Fandorin series
+Boris Akunin
+Family saga
+1998
+5
+
+58
+Eye of the Needle
+Ken Follett
+Family saga
+1978
+2
+
+59
+Fahrenheit 451
+Ray Bradbury
+Family saga
+1953
+3
+
+60
+Fear of Flying
+Erica Jong
+Family saga
+1973
+5
+
+61
+Fear Street
+R. L. Stine
+Family saga
+1989
+4
+
+62
+Fifty Shades
+E. L. James
+Family saga
+2011
+4
+
+63
+Fifty Shades Darker
+E. L. James
+Family saga
+2012
+5
+
+64
+Fifty Shades of Grey
+E. L. James
+Family saga
+2011
+3
+
+65
+Flowers in the Attic
+V. C. Andrews
+Family saga
+1979
+4
+
+66
+Follow Your Heart (Va' dove ti porta il cuore)
+Susanna Tamaro
+Family saga
+1994
+3
+
+67
+Frank Merriwell
+Gilbert Patten
+Family saga
+1896
+2
+
+68
+Genma Taisen
+Kazumasa Hirai
+Science fiction
+1979
+5
+
+69
+Geronimo Stilton
+Elisabetta Dami and ghostwriters
+Children's literature
+2000
+2
+
+70
+God's Little Acre
+Erskine Caldwell
+Children's literature
+1933
+5
+
+71
+Gone Girl
+Gillian Flynn
+Children's literature
+2012
+3
+
+72
+Gone with the Wind
+Margaret Mitchell
+Children's literature
+1936
+3
+
+73
+Goodnight Moon
+Margaret Wise Brown
+Children's literature
+1947
+4
+
+74
+Goosebumps
+R. L. Stine
+Children's literature
+1992
+3
+
+75
+Guess How Much I Love You
+Sam McBratney
+Children's literature
+1994
+5
+
+76
+Guin Saga
+Kaoru Kurimoto
+Self-improvement
+1979
+3
+
+77
+Hammond's Pocket
+Atlas	
+Children's literature
+1965
+4
+
+78
+Harry Bosch
+Michael Connelly
+Children's literature
+1992
+4
+
+79
+Harry Hole
+Jo Nesbø
+Children's literature
+1997
+2
+
+80
+Harry Potter
+J. K. Rowling
+Children's literature
+1997
+5
+
+81
+Harry Potter and the Chamber of Secrets
+J. K. Rowling
+Fantasy
+1998
+2
+
+82
+Harry Potter and the Deathly Hallows
+J. K. Rowling
+Fantasy
+2007
+3
+
+83
+Harry Potter and the Goblet of Fire
+J. K. Rowling
+Fantasy
+2000
+3
+
+84
+Harry Potter and the Half-Blood Prince
+J. K. Rowling
+Fantasy
+2005
+2
+
+85
+Harry Potter and the Order of the Phoenix
+J. K. Rowling
+Fantasy
+2003
+5
+
+86
+Harry Potter and the Philosopher's Stone
+J. K. Rowling
+Fantasy
+1997
+4
+
+87
+Harry Potter and the Prisoner of Azkaban
+J. K. Rowling
+Fantasy
+1999
+2
+
+88
+Haruhi Suzumiya Series
+Nagaru Tanigawa
+Jidaigeki
+2003
+4
+
+89
+Heidi
+Johanna Spyri
+Children's fiction
+1880
+4
+
+90
+His Dark Materials
+Philip Pullman
+Children's fiction
+1995
+5
+
+91
+Horrible Histories
+Terry Deary
+Children's fiction
+1993
+2
+
+92
+How the Steel Was Tempered
+Nikolai Ostrovsky
+Children's fiction
+1932
+2
+
+93
+How to Win Friends and Influence People
+Dale Carnegie
+Children's fiction
+1936
+4
+
+94
+I Survived
+Lauren Tarshis
+Children's fiction
+2010
+2
+
+95
+Interpreter of Maladies
+Jhumpa Lahiri
+Children's fiction
+2000
+2
+
+96
+Jack Reacher
+Lee Child
+Children's fiction
+1997
+2
+
+97
+James and the Giant Peach
+Roald Dahl
+Children's literature
+1961
+4
+
+98
+Ian Fleming
+James Bond
+Children's literature
+1953
+2
+
+99
+Jaws
+Peter Benchley
+Children's literature
+1974
+3
+
+100
+Jonathan Livingston Seagull
+Richard Bach
+Children's literature
+1970
+4
