@@ -3,11 +3,13 @@
 using namespace std;
 #include <string>
 #include <string.h>
+#include <fstream>
+
 struct BOOK {
-	char MaSo[50];
-	char TuaSach[200];
-	char TenTacGia[50];
-	char TheLoai[50];
+	string  MaSo;
+	string TuaSach;
+	string TenTacGia;
+	string  TheLoai;
 	int NamXuatBan;
 	int XepHang;
 };
@@ -17,13 +19,13 @@ void Nhap(vector<BOOK>& B)
 	BOOK b;
 	cout << "Nhap tua sach: ";
 	cin.ignore();
-	cin.getline(b.TuaSach, 200);
+	getline(cin, b.TuaSach);
 	cout << "Nhap ma so: ";
-	cin.getline(b.MaSo, 50);
+	getline(cin, b.MaSo);
 	cout << "Nhap ten tac gia: ";
-	cin.getline(b.TenTacGia, 50);
+	getline(cin, b.TenTacGia);
 	cout << "Nhap the loai: ";
-	cin.getline(b.TheLoai, 50);
+	getline(cin, b.TheLoai);
 	cout << "Nhap nam xuat ban: ";
 	cin >> b.NamXuatBan;
 	cout << "Nhap xep hang cua sach: ";
@@ -66,7 +68,7 @@ void TimTheoTenTacGia(vector<BOOK> B, char name[50])
 	int i, dem = 0;;
 	for (i = 0; i < B.size(); i++)
 	{
-		if (strcmp(name, B.at(i).TenTacGia) == 0) dem++;
+		if (name == B.at(i).TenTacGia) dem++;
 	}
 	if (dem == 0)
 	{
@@ -75,7 +77,7 @@ void TimTheoTenTacGia(vector<BOOK> B, char name[50])
 	}
 	for (i = 0; i < B.size(); i++)
 	{
-		if (strcmp(name, B.at(i).TenTacGia) == 0)
+		if (name == B.at(i).TenTacGia)
 		{
 			Xuat1(B, i);
 		}
@@ -88,7 +90,7 @@ void TimTheoTuaSach(vector<BOOK> B, char name[50])
 	int i, dem = 0;;
 	for (i = 0; i < B.size(); i++)
 	{
-		if (strcmp(name, B.at(i).TuaSach) == 0) dem++;
+		if (name == B.at(i).TuaSach) dem++;
 	}
 	if (dem == 0)
 	{
@@ -97,7 +99,7 @@ void TimTheoTuaSach(vector<BOOK> B, char name[50])
 	}
 	for (i = 0; i < B.size(); i++)
 	{
-		if (strcmp(name, B.at(i).TuaSach) == 0)
+		if (name == B.at(i).TuaSach)
 		{
 			Xuat1(B, i);
 		}
@@ -127,7 +129,7 @@ void XoaTheoMaSo(vector<BOOK>& B, char name[50])
 	int i, dem = 0;;
 	for (i = 0; i < B.size(); i++)
 	{
-		if (strcmp(name, B.at(i).TuaSach) == 0) dem++;
+		if (name == B.at(i).MaSo) dem++;
 	}
 	if (dem == 0)
 	{
@@ -136,14 +138,53 @@ void XoaTheoMaSo(vector<BOOK>& B, char name[50])
 	}
 	for (i = 0; i < B.size(); i++)
 	{
-		if (strcmp(name, B.at(i).MaSo) == 0)
+		if (name == B.at(i).MaSo)
 		{
 			B.erase(B.begin() + i);
 		}
 	}
+	cout << "Da xoa sach co ma so la " << name << "\n";
 }
 
-void MENU(vector<BOOK> B) {
+void DOCFILE(vector<BOOK>& A) {
+
+	fstream  filein("inputnew.txt", ios::in);
+	while (filein.eof() == false) {
+		BOOK b;
+		getline(filein, b.MaSo);
+		getline(filein, b.TuaSach);
+		if (b.TuaSach == "") {
+			break;
+		}
+		getline(filein, b.TenTacGia);
+		getline(filein, b.TheLoai);
+		filein >> b.NamXuatBan;
+		filein >> b.XepHang;
+		filein.ignore();
+		filein.ignore();
+		A.push_back(b);
+
+	}
+	filein.close();
+	cout << "Da doc xong file\n";
+}
+
+void XUATFILE(vector<BOOK>B) {
+	fstream fileout("output.txt", ios::out);
+	for (int i = 0; i < B.size(); i++) {
+		fileout << "Tua sach: " << B.at(i).TuaSach << endl;
+		fileout << "Ma so: " << B.at(i).MaSo << endl;
+		fileout << "Ten tac gia: " << B.at(i).TenTacGia << endl;
+		fileout << "The loai: " << B.at(i).TheLoai << endl;
+		fileout << "Nam xuat ban: " << B.at(i).NamXuatBan << endl;
+		fileout << "Xep hang: " << B.at(i).XepHang << "/5" << endl;
+		fileout << endl;
+	}
+	cout << "Xuat xong. Mo file output de xem\n";
+	fileout.close();
+}
+
+void MENU(vector<BOOK>& B) {
 	int number, x;
 	char name[50];
 	while (true)
@@ -158,6 +199,8 @@ void MENU(vector<BOOK> B) {
 		cout << "	<4>   Tim sach theo tua sach\n";
 		cout << "	<5>   Tim sach theo nam xuat ban\n";
 		cout << "	<6>   Xoa sach theo ma so\n";
+		cout << "	<7>   Doc file tu dia\n";
+		cout << "	<8>   Xuat file\n";
 		cout << "Nhap vao yeu cau cua ban: ";
 		cin >> number;
 		switch (number)
@@ -165,7 +208,6 @@ void MENU(vector<BOOK> B) {
 		case 0:
 			cout << "Tam biet! Cam on ban da su dung chuong trinh!\n";
 			return;
-
 		case 1:
 			Nhap(B);
 			break;
@@ -198,6 +240,14 @@ void MENU(vector<BOOK> B) {
 			cin.ignore();
 			cin.getline(name, 50);
 			XoaTheoMaSo(B, name);
+			system("pause");
+			break;
+		case 7:
+			DOCFILE(B);
+			system("pause");
+			break;
+		case 8:
+			XUATFILE(B);
 			system("pause");
 			break;
 		default:
