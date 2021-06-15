@@ -65,10 +65,10 @@ void Xuat1(vector<BOOK> B, int x)
 
 void TimTheoTenTacGia(vector<BOOK> B, char name[50])
 {
-	int i, dem = 0;;
-	for (i = 0; i < B.size(); i++)
+	int dem = 0;
+	for (int i = 0; i < B.size(); i++) 
 	{
-		if (name == B.at(i).TenTacGia)
+		if (B.at(i).TenTacGia.find(name) != string::npos) 
 		{
 			Xuat1(B, i);
 			dem++;
@@ -82,7 +82,7 @@ void TimTheoTuaSach(vector<BOOK> B, char name[50])
 	int i, dem = 0;;
 	for (i = 0; i < B.size(); i++)
 	{
-		if (name == B.at(i).TuaSach)
+		if (B.at(i).TuaSach.find(name) != string::npos)
 		{
 			Xuat1(B, i);
 			dem++;
