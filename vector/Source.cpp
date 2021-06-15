@@ -68,20 +68,13 @@ void TimTheoTenTacGia(vector<BOOK> B, char name[50])
 	int i, dem = 0;;
 	for (i = 0; i < B.size(); i++)
 	{
-		if (name == B.at(i).TenTacGia) dem++;
-	}
-	if (dem == 0)
-	{
-		cout << "Khong ton tai sach co tac gia la: " << name << endl;
-		return;
-	}
-	for (i = 0; i < B.size(); i++)
-	{
 		if (name == B.at(i).TenTacGia)
 		{
 			Xuat1(B, i);
+			dem++;
 		}
 	}
+	if (dem == 0) cout << "Khong ton tai sach co tac gia la: " << name << endl;
 }
 
 void TimTheoTuaSach(vector<BOOK> B, char name[50])
@@ -89,20 +82,13 @@ void TimTheoTuaSach(vector<BOOK> B, char name[50])
 	int i, dem = 0;;
 	for (i = 0; i < B.size(); i++)
 	{
-		if (name == B.at(i).TuaSach) dem++;
-	}
-	if (dem == 0)
-	{
-		cout << "Khong ton tai sach co tua la: " << name << endl;
-		return;
-	}
-	for (i = 0; i < B.size(); i++)
-	{
 		if (name == B.at(i).TuaSach)
 		{
 			Xuat1(B, i);
+			dem++;
 		}
 	}
+	if (dem == 0) cout << "Khong ton tai sach co tua la: " << name << endl;
 }
 
 void TimTheoNamXuatBan(vector<BOOK> B, int y)
@@ -110,16 +96,13 @@ void TimTheoNamXuatBan(vector<BOOK> B, int y)
 	int i, dem = 0;;
 	for (i = 0; i < B.size(); i++)
 	{
-		if (y == B.at(i).NamXuatBan) dem++;
-	}
-	if (dem == 0) cout << "Khong ton tai sach nam xuat ban la: " << y << endl;
-	for (i = 0; i < B.size(); i++)
-	{
 		if (y == B.at(i).NamXuatBan)
 		{
 			Xuat1(B, i);
+			dem++;
 		}
 	}
+	if (dem == 0) cout << "Khong ton tai sach nam xuat ban la: " << y << endl;
 }
 
 void XoaTheoMaSo(vector<BOOK>& B, char name[50])
@@ -127,25 +110,17 @@ void XoaTheoMaSo(vector<BOOK>& B, char name[50])
 	int i, dem = 0;;
 	for (i = 0; i < B.size(); i++)
 	{
-		if (name == B.at(i).MaSo) dem++;
-	}
-	if (dem == 0)
-	{
-		cout << "Khong ton tai sach ma so la: " << name << endl;
-		return;
-	}
-	for (i = 0; i < B.size(); i++)
-	{
 		if (name == B.at(i).MaSo)
 		{
 			B.erase(B.begin() + i);
+			dem++;
 		}
 	}
-	cout << "Da xoa sach co ma so la " << name << "\n";
+	if (dem == 0) cout << "Khong ton tai sach ma so la: " << name << endl;
+	else cout << "Da xoa sach co ma so la " << name << "\n";
 }
 
 void DOCFILE(vector<BOOK>& A) {
-
 	fstream  filein("inputnew.txt", ios::in);
 	while (filein.eof() == false) {
 		BOOK b;
